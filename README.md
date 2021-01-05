@@ -1,5 +1,2 @@
-# projet-tuteure-
+# Sign Language Translator using Machine learning and Leap Motion Captor
 
-Travail effectué par 
-AKKAL AGHILES
-BELKACEM Liza
